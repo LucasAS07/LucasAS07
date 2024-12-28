@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aluno de Sistemas de Informação e apaixonado por tecnologia. Estou buscando aprendizado e me aprofundar em programação.<br>
+Analista de Sistemas e apaixonado por tecnologia. Estou buscando aprendizado e me aprofundar em programação.<br> Atualmente me especializando em desenvolvimento Java Backend.<br>
 
 
 ## 🌐 Socials:
