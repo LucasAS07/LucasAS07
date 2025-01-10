@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista de Sistemas e apaixonado por tecnologia. Estou buscando aprendizado e me aprofundar em programação.<br> Atualmente me especializando em desenvolvimento Java Backend.<br>
+Sou um profissional com mais de 2 anos de experiência na área de Tecnologia da Informação, atuando em suporte ao usuário, manutenção de redes e infraestrutura.<br> Atualmente, estou me especializando em desenvolvimento backend com Java e Spring, além de ampliar meus conhecimentos em Angular para desenvolvimento frontend.<br>
 
 
 ## 🌐 Socials:
