@@ -1,5 +1,11 @@
 # 💫 About Me:
-Sou um profissional com mais de 2 anos de experiência na área de Tecnologia da Informação, atuando em suporte ao usuário, manutenção de redes e infraestrutura.<br> Atualmente, estou me especializando em desenvolvimento backend com Java e Spring, além de ampliar meus conhecimentos em Angular para desenvolvimento frontend.<br>
+Profissional de Tecnologia da Informação com mais de 2 anos de experiência, atuando em suporte técnico, infraestrutura, redes, administração de banco de dados Oracle e desenvolvimento de relatórios e indicadores.
+
+Atualmente, direciono minha carreira para o desenvolvimento de software, com foco em backend utilizando Java e Spring Boot, além de conhecimentos em Angular para desenvolvimento frontend.
+
+Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados relacionais, automação de processos e construção de soluções para problemas do dia a dia.
+
+Sou movido pelo aprendizado contínuo, pela resolução de problemas e pelo desenvolvimento de soluções que agreguem valor por meio da tecnologia.
 
 
 ## 🌐 Socials:
